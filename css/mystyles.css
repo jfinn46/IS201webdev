@@ -1,0 +1,21 @@
+nav{
+    background-color: 83c9a4;
+}
+
+#sideNav .navbar-toggler:focus {
+    outline-color: #a9d4bd;
+  }
+
+  .navbar-text {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    color: #84c2a1;
+  }
+
+#linktoscratch{
+  text-decoration: none;
+}
+
+#linktoscratch:hover{
+  color:rgba(189, 93, 56, 0.25);
+}
